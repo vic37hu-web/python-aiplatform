@@ -806,3 +806,4 @@ Next Steps
 
 .. _Vertex AI API Product documentation:  https://cloud.google.com/vertex-ai/docs
 .. _README: https://github.com/googleapis/google-cloud-python/blob/main/README.rst
+	#=que me han enviado la base de datos paraque me dé su cuenta corriente banco Santander cuenta 378675112510010de la base para la cuenta de pago por la transferencia de fondos estimado de €5000 que me han dado la base para que se me ha dado la vuelta del viaje a las 8 del trabajo que se arma y tu familia te late armar un grupo de pago para la cuenta de pago y la cuenta del banco BBVA cuenta con$10000=10000
